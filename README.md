@@ -1,4 +1,4 @@
-# Brain Age prediction lessons for ()
+# Brain Age prediction lessons for "Summer School on Artificial Intelligence in Health and Life Sciences" at Università Campus Bio-Medico di Roma
 
 A little repository where a gentle neuroimaging introduction is given and it is possible to learn basic technique for brain age prediction. An explainability pipeline is also illustrated.
 
