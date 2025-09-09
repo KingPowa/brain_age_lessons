@@ -48,7 +48,7 @@ Most dependencies can be installed directly from the notebooks, but a `requireme
 ```bash
 # Clone the repository
 git clone https://github.com/KingPowa/brain_age_lessons.git
-cd <repository_folder>
+cd brain_age_lessons
 
 # (Optional but recommended) Create a virtual environment
 python3 -m venv venv
