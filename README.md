@@ -47,7 +47,7 @@ Most dependencies can be installed directly from the notebooks, but a `requireme
 
 ```bash
 # Clone the repository
-git clone <insert_repository_url>
+git clone https://github.com/KingPowa/brain_age_lessons.git
 cd <repository_folder>
 
 # (Optional but recommended) Create a virtual environment
